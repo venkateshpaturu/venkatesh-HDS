@@ -1,0 +1,4 @@
+Invalid DYSPNEA calculation
+Invalid BMI calculation
+Failed to write or invoke tests
+Missing data files.
